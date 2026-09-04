@@ -96,7 +96,7 @@ Contains the main C# billing logic such as:
 1. Clone the repository.
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/titiksha95/Grocery-Billing-From.git
 ```
 
 2. Open the project/solution in **Visual Studio**.
